@@ -1,4 +1,3 @@
-```python
 number = int(input("Enter a number: "))
 
 original = number
@@ -13,4 +12,3 @@ if original == reverse:
     print("The number is a palindrome")
 else:
     print("The number is not a palindrome")
-```
